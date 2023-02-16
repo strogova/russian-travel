@@ -1,25 +1,23 @@
 .lead{
   margin: 0 auto;
-  width: calc(100% - 2*148px);
   text-align: center;
-  padding: 0 0 92px;
+  padding: 0 148px 92px;
 }
 
 @media screen and (max-width: 1024px) {
   .lead{
-    width: calc(100% - 2*48px);
+    padding: 0 48px 92px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead{
-    width: calc(100% - 48px);
+    padding: 0 0 88px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead{
-    width: 100%;
     padding: 0 0 64px;
   }
 }

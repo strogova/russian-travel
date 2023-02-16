@@ -1,0 +1,4 @@
+.lead__image-wrap{
+  width: calc(320px + (984px — 320px) * ((100% — 320px) / (984px— 320px)));
+  margin: 0 auto;
+}

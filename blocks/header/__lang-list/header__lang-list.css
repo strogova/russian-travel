@@ -1,0 +1,14 @@
+.header__lang-list{
+  color: #FFFFFF;
+  font-size: 24px;
+  line-height: 1.17;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 320px) {
+  .header__lang-list{
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}

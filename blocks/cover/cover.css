@@ -1,0 +1,6 @@
+.cover{
+  max-width: 1184px;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}

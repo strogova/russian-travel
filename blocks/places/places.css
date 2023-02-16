@@ -3,7 +3,7 @@
   display: -ms-flexbox;
   display: flex;
   margin: 0 auto;
-  width: calc(320px + (984px — 320px) * ((100% — 320px) / (984px— 320px)));
+  width: calc(320px + (984px — 320px) * ((100% — 320px) / (984px — 320px)));
   padding: 0 148px 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;

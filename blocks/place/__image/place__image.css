@@ -10,13 +10,11 @@
 @media screen and (max-width: 1024px) {
   .place__image{
     max-width: 440px;
-    width: 100%;
   }
 }
 
 @media screen and (max-width: 450px) {
   .place__image{
     min-width: 320px;
-    width: 100%;
   }
 }
